@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 permalink: /experience/
-weight: 3
+weight: 4
 ---
 
 Machine Learning Consultant

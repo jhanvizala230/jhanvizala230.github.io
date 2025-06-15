@@ -59,9 +59,9 @@ collections:
     output: true
     permalink: /projects/:name
 
-### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+# ### Disqus ###
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
