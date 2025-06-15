@@ -1,0 +1,19 @@
+- name: Grafana Logging system
+  percentage: 85
+  color: info
+
+- name: Jupyter Lab
+  percentage: 90
+  color: info
+
+- name: CUDA Programming
+  percentage: 80
+  color: info
+
+- name: Vector DBs
+  percentage: 75
+  color: info
+
+- name: Django
+  percentage: 80
+  color: info

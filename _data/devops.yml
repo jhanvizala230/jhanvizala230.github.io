@@ -1,0 +1,24 @@
+- name: Git
+  percentage: 90
+  color: info
+
+- name: Jenkins
+  percentage: 15
+  color: info
+
+- name: Kubernetes
+  percentage: 80
+  color: info
+
+- name: CI/CD
+  percentage: 85
+  color: info
+
+- name: GCP Vertex AI
+  percentage: 80
+  color: info
+
+- name: Azure AKS
+  percentage: 75
+  color: info
+

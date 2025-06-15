@@ -1,0 +1,31 @@
+- name: Feature Extraction
+  percentage: 80
+  color: info
+
+- name: Data Preparation
+  percentage: 85
+  color: info
+
+- name: OpenCV
+  percentage: 75
+  color: info
+
+- name: SQL
+  percentage: 85
+  color: info
+
+- name: PostgreSQL
+  percentage: 85
+  color: info
+
+- name: Oracle
+  percentage: 75
+  color: info
+
+- name: SQL Server
+  percentage: 75
+  color: info
+
+- name: MongoDB
+  percentage: 25
+  color: info

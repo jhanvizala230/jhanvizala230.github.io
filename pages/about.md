@@ -20,8 +20,15 @@ I’ve worked across diverse domains including document automation, speech synth
 Explore some of my best work — both from industry and my own experiments.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Tools & Platforms" source=site.data.tools_platforms %}
+{% include about/skills.html title="Devops & CLoud" source=site.data.devops %}
+{% include about/skills.html title="ML Frameworks" source=site.data.ml %}
+</div>
+<div class="row">
+{% include about/skills.html title="Data Engineering" source=site.data.data_eng %}
+{% include about/skills.html title="Soft Skills" source=site.data.soft_skills %}
+{% include about/skills.html title="Others" source=site.data.other %}
+
 </div>
 
 <div class="row">

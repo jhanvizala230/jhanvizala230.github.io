@@ -104,3 +104,7 @@ exclude:
   - "*.log"
   - description_separate/
   - docs/
+
+markdown: kramdown
+kramdown:
+  input: GFM

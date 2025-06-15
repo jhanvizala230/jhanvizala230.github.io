@@ -1,53 +1,49 @@
 ---
 name: RoverBot 
 tools: [Detectron2, Llava 7B Mode, Pytorch, Streamlit, Python]
-image: /assests/images/rovernet/link_image_resize.jpg
+image: /assets/images/rovernet/link_image_resize.jpg
 description: Martian terrain surface segmentation using instance segmentation and visual LLM-powered Q&A !
 # external_url: https://github.com/jhanvizala230/Rovernet-chatbot
 ---
 
-
 # 🚀 RoverBot
+
 **Visual Question Answering with Detectron2 + LLM Integration**
 
 [GitHub Repo](https://github.com/jhanvizala230/Rovernet-chatbot)
 
-> Martian terrain surface segmentation using instance segmentation and visual LLM-powered Q&A
+> Martian terrain surface segmentation using instance segmentation and a visual LLM-powered Q&A chatbot.
 
 ---
 
 ## 🧠 Project Overview
 
-RoverNet is a Martian terrain surface segmentation and analysis system that classifies 8 unique regions — **soil, sand, rock, bedrock, sky, ridge, hole, and rover** — using a robust instance segmentation pipeline. It integrates **Mask R-CNN** through **Detectron2** (by Facebook Research) for pixel-level segmentation and combines it with **LLaVA 7B**, a visual question-answering model, to create an intelligent chatbot for terrain analysis.
+**RoverBot** is a Martian terrain surface segmentation and analysis system that classifies **8 distinct regions** — *soil, sand, rock, bedrock, sky, ridge, hole, and rover* — using a robust instance segmentation pipeline.  
+It combines **Mask R-CNN** via **Detectron2** (by Facebook Research) for pixel-level segmentation and integrates the **LLaVA 7B** visual question-answering model to deliver an intelligent chatbot for terrain understanding.
 
-The UI is developed using **Streamlit**, offering real-time image processing, conversational interaction, and dynamic results visualization.
+The user interface is developed with **Streamlit**, providing real-time image processing, conversational interaction, and dynamic visualization.
 
 ---
 
-## 🚧 Technologies Used
+## ⚙️ Technologies Used
 
-<div class="feature__wrapper">
-  <div class="feature__item">
-    <i class="fas fa-brain"></i>
-    <h3>Computer Vision</h3>
-    <p>Detectron2 + OpenCV for high-accuracy segmentation (98.5% mAP)</p>
-  </div>
-  <div class="feature__item">
-    <i class="fas fa-comments"></i>
-    <h3>Visual Q&A</h3>
-    <p>LLaVA 7B for image-contextual conversations and analysis</p>
-  </div>
-  <div class="feature__item">
-    <i class="fas fa-code"></i>
-    <h3>Backend</h3>
-    <p>FastAPI, PyTorch (CUDA 12.8), running 24 FPS @ 1080p</p>
-  </div>
-  <div class="feature__item">
-    <i class="fas fa-laptop-code"></i>
-    <h3>Frontend</h3>
-    <p>Built with Streamlit – responsive in &lt;500ms</p>
-  </div>
-</div>
+| **Category** | **Stack** |
+|--------------|------------|
+| **Frameworks** | PyTorch, Detectron2, FastAPI, Streamlit |
+| **Models** | Mask R-CNN, LLaVA 7B |
+| **Libraries** | OpenCV |
+| **Infrastructure** | Docker, CUDA 12.8, Kubernetes |
+| **Dataset** | COCO 2017 + Custom Martian Terrain Annotations |
+
+---
+
+## 🚧 System Features
+
+- ✅ **Instance Segmentation** with Mask R-CNN and Detectron2  
+- ✅ **Visual Q&A** with LLaVA 7B  
+- ✅ **Real-time Image Upload & Processing**  
+- ✅ **Conversational Interface** using Streamlit & FastAPI  
+- ✅ **Containerized Deployment** ready for Docker/Kubernetes  
 
 ---
 
@@ -55,22 +51,11 @@ The UI is developed using **Streamlit**, offering real-time image processing, co
 
 | Interface | Processed Output |
 |-----------|------------------|
-| ![Home Screen](/assests/images/rovernet/initial_screen_resize.png) | ![Detection Results](/assests/images/rovernet/results_resize.png) |
+| ![Home Screen](/assets/images/rovernet/initial_screen_resize.png) | ![Detection Results](/assets/images/rovernet/results_resize.png) |
 
 | Q&A Flow | Mask-RCNN Output |
 |----------|------------------|
-| ![Chat Example](/assests/images/rovernet/results2_resize.png) | ![Detection](/assests/images/rovernet/detection_result_resize.png) |
-
----
-
-## 🧩 System Stack
-
-| Category | Stack |
-|----------|-------|
-| Frameworks | PyTorch, Detectron2, FastAPI, Streamlit |
-| Models | Mask-RCNN, LLaVA 7B |
-| Infrastructure | Docker, CUDA (12.8), Kubernetes |
-| Dataset | COCO 2017 + Custom Martian Terrain Annotations |
+| ![Chat Example](/assets/images/rovernet/results2_resize.png) | ![Detection](/assets/images/rovernet/detection_result_resize.png) |
 
 ---
 

@@ -1,17 +1,54 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Machine Leanrning Engineer, Solverminds Solution, Remote India
+  from: 2025
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: At Solverminds Solution Pvt Ltd (since Jan 2025, Remote), I serve as a Technical Solution 
+              Provider and lead the development of AI systems and Generative AI agents. I design and deploy advanced 
+              AI solutions using LLMs, vector databases, and RAG architectures, ensuring seamless integration 
+              with robust backend systems. I manage cloud-native deployments on Azure Kubernetes Service (AKS), 
+              architect scalable and cost-effective cloud infrastructures, and oversee performance monitoring with 
+              tools like Grafana. In addition to technical delivery, I collaborate closely with stakeholders to gather 
+              and refine requirements, and I lead cross-functional teams to implement end-to-end AI pipelines, 
+              driving innovation and aligning solutions with business objectives.
+
+- title: MLops, Vosyn, Remote Canada
+  from: 2024
+  to: 2025
+  description: As a Machine Learning Engineer at Vosyn (Nov 2024 – March 2025, Remote, Toronto), 
+              I enhanced the VITS architecture to support multilingual and multispeaker synthesis, 
+              built automated Vertex AI pipelines for training and deployment, and optimized GPU 
+              acceleration to improve speech synthesis quality and reduce training time and costs. 
+              I also containerized models with Docker for scalable deployment on Google Cloud Platform.
+
+- title: Student, Lakehead University, Canada
+  from: 2022
+  to: 2024
+  description: I completed my Master of Science in Computer Science at 
+              Lakehead University, Thunder Bay, Canada, in April 2024. My graduate studies 
+              emphasized advanced topics in artificial intelligence, big data analytics, cloud computing, 
+              and pattern recognition. I gained hands-on experience developing deep learning solutions 
+              for semantic segmentation, real-time object detection, and terrain analysis using 
+              state-of-the-art models like U-Net, YOLOv5, and Detectron2. Additionally, I worked 
+              extensively with cloud platforms to deploy scalable AI pipelines, enhancing my ability 
+              to design and optimize data-driven applications for real-world challenges.
+              
+- title: Software Engineer, eInfochips Pvt Ltd
+  from: 2019
+  to: 2022
+  description:  I worked as a Software Engineer, where I developed and maintained RESTful APIs using 
+            Node.js and JavaScript for high-performance backend systems. I automated test frameworks 
+            with Python and Pytest to ensure robust desktop applications. My role included leading the 
+            development of software update components on Linux, integrating CI/CD pipelines with Git, 
+            Jenkins, and Kubernetes, and managing backend databases with over 50 MySQL tables for 
+            performance optimization. This experience strengthened my skills in full-stack development, 
+            automation, and delivering scalable, reliable software solutions in an agile environment.
+
+- title: Student, CHARUSAT University,India 
+  from: 2015
+  to: 2019
+  description: I hold a Bachelor of Technology degree in Computer Engineering from 
+              CHARUSAT University, Anand, India, completed in May 2019. During my undergraduate studies, 
+              I gained a strong foundation in software development, computer architecture, and 
+              programming principles. This period honed my problem-solving skills and 
+              equipped me with practical experience in designing and building software 
+              solutions, which laid the groundwork for my career in software development 
+              and machine learning.

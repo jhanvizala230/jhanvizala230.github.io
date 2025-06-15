@@ -1,0 +1,27 @@
+- name: TensorFlow
+  percentage: 85
+  color: info
+
+- name: PyTorch
+  percentage: 85
+  color: info
+
+- name: Hugging Face
+  percentage: 75
+  color: info
+
+- name: Gen AI
+  percentage: 80
+  color: info
+
+- name: LLama Model
+  percentage: 80
+  color: info
+
+- name: GPT
+  percentage: 80
+  color: info
+
+- name: Embedding
+  percentage: 80
+  color: info
