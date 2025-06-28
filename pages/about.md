@@ -7,17 +7,21 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Welcome to my portfolio!I’m a Software Engineer and Machine Learning Specialist; with more than 3 years of experience in cloud-native API development, full-stack systems, and advanced AI solutions. I specialize in:
+Hi, I’m **{{ site.author.name }}** 👩‍💻✨ :wave:
 
-- Large Language Models (LLMs) and Generative AI
-- Multilingual TTS and VITS architectures
-- ML pipelines, model optimization, and MLOps
-- Scalable deployments on GCP, Azure AKS, and Kubernetes
+Welcome to my corner of the internet! I’m a Software Engineer & Machine Learning Specialist with 3+ years in building cloud-native APIs, scalable systems, and advanced AI pipelines. I engineer:
 
-I’ve worked across diverse domains including document automation, speech synthesis, and image segmentation, blending engineering and research to deliver impactful AI products.
+- LLMs & Generative AI agents
+- Multilingual TTS + VITS architectures
+- ML pipelines, model finetuning, and MLOps
+- Scalable GCP, Azure AKS, and K8s deployments
 
-Explore some of my best work — both from industry and my own experiments.
+I’ve shipped impactful AI products across document automation, speech synthesis, and image segmentation, blending engineering with research to move ideas into the real world.
+
+When I’m not wrangling models and containers, you’ll find me flowing on the yoga mat, dancing to reset, or painting to recharge.
+
+Dive in and check out some of my builds 🚀
+
 
 <div class="row">
 {% include about/skills.html title="Tools & Platforms" source=site.data.tools_platforms %}
