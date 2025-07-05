@@ -29,18 +29,6 @@ Built with:
 
 ---
 
-## 🖼️ Output 
-
-
-| Description | Image |
-|--------|------------------------|
-| **Home Page:** This is the home page interface. | ![Home Page](/assets/images/video_rag_agent/home_page.png) |
-| **Processed Output:** The screen presents the uploaded video, accompanied by a 'Run pipeline' button that, when activated, processes the video to derive its comprehensive details. | ![Processed Video](/assets/images/video_rag_agent/processed_output_video.png) |
-| **Q&A Result with Timestamps:** Once the video is saved and processed, the system provides answers to user queries, including the specific video segments where the explanations are found. | ![User Q&A Result](/assets/images/video_rag_agent/timestamps_reflected.png) |
-
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: Streamlit (Python)
@@ -65,4 +53,13 @@ Built with:
 
 ---
 
+## 🖼️ Output 
+
+| Description | Image |
+|--------|------------------------|
+| **Home Page:** This is the home page interface. | ![Home Page](/assets/images/video_rag_agent/home_page.png) |
+| **Processed Output:** The screen presents the uploaded video, accompanied by a 'Run pipeline' button that, when activated, processes the video to derive its comprehensive details. | ![Processed Video](/assets/images/video_rag_agent/processed_output_video.png) |
+| **Q&A Result with Timestamps:** Once the video is saved and processed, the system provides answers to user queries, including the specific video segments where the explanations are found. | ![User Q&A Result](/assets/images/video_rag_agent/timestamps_reflected.png) |
+
+---
 
