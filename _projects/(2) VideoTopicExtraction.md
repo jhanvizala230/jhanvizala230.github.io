@@ -71,7 +71,6 @@ Key Phrases Bar Chart
 
 [pyLDAvis Dashboard](/assets/html/video_topic_extractor/video_topics.html)
 ![](/assets/images/video_topic_extractor/dashborad.png)
----
 
 <!-- ###### 📑 Topic-wise Word Clouds
 
